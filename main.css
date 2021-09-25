@@ -421,7 +421,7 @@ textarea {
     font-size: 1.05rem;
 }
 
-#contact-form button[type="submit"] {
+#contact-form button[type="button"] {
     background: transparent;
     font-size: 0.95rem;
     border: 2px solid white;
@@ -455,6 +455,7 @@ textarea:focus,
 button:focus {
     outline: none;
 }
+
 
 
 
