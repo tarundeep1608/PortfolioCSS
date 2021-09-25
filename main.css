@@ -220,7 +220,7 @@ section:nth-child(2n + 1) {
 }
 
 .timeline-box:nth-child(2n+1)::after {
-    right: -11.8%;
+    right: -14.1%;
 }
 
 .timeline-box:nth-child(2n)::after {
@@ -474,7 +474,6 @@ button:focus {
 }
 
 
-
 /*common color classes */
 
 .text-highlight {
@@ -482,8 +481,6 @@ button:focus {
     font-weight: 600;
 
 }
-
-
 
 /* setting background-color */
 
